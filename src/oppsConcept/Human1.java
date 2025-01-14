@@ -1,5 +1,5 @@
 package oppsConcept;
-
+// new line 
 public class Human1 extends Human {
 	String hire;
 	String color;
